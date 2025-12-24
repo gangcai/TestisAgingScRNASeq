@@ -1,4 +1,4 @@
-# TestisAgingScRNASeq
+# Single-cell RNA sequencing studies of mouse testicular aging
 
 Code for the project of scRNA-seq based testes aging study
 
@@ -7,6 +7,7 @@ Code for the project of scRNA-seq based testes aging study
 ### Raw Sequencing Data (Fastq, Pooled)
 - [CRA035346](https://ngdc.cncb.ac.cn/gsa/browse/CRA035346)
 - Sample barcode information can be found in the folder: `pool_barcode_meta`
+- Sample splitting code can be found at folder: `Fastq_Preprocess/run_celescope/run_tag_split_fq`
 
 ### Raw Sequencing Data (Fastq, Splitted)
 TODO
