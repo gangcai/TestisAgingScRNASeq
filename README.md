@@ -12,6 +12,9 @@ Code for the project of scRNA-seq based testes aging study
 ### Raw Sequencing Data (Fastq, Splitted)
 TODO
 
+### Bam files
+- [CRA014599](https://ngdc.cncb.ac.cn/gsa/browse/CRA014599)
+
 ### Processed Matrix and RDS Files
 - [Figshare DOI: 10.6084/m9.figshare.25034684](https://doi.org/10.6084/m9.figshare.25034684)
 
